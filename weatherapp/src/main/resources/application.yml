@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: weatherapp
+weather:
+  api:
+    key: ${WEATHER_API_KEY}
